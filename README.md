@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NazMauri</h1>
 <h3 align="center">Ethical Hacker | Cyber Security Analyst</h3>
-<img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif****
+<img align="right" alt="Coding" width="400" src=[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://pin.it/3Hyqv3X)****
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmauri" alt="nazmauri" /></a> </p>
 
 - 🔭 I’m currently working on **Cyber Security Analyst**
