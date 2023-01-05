@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm NazMauri</h1>
 <h3 align="center">Ethical Hacker | Certified Professional Penetration Tester </h3>
-<img align="right" alt="Coding" width="400" src=[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](file:///C:/Users/nazma/Downloads/programmer.gif****
+<img align="right" alt="Coding" width="400" src=[file:///C:/Users/nazma/Downloads/gif.gif]
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmauri" alt="nazmauri" /></a> </p>
 
 - 🔭 I’m currently working on **Ethical Hacker**
