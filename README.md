@@ -1,27 +1,35 @@
-<h1 align="center">Hi 👋, I'm NazMauri</h1>
-<h3 align="center">Ethical Hacker | Certified Professional Penetration Tester </h3>
-<img align="right" alt="Coding" width="400" src=[file:///C:/Users/nazma/Downloads/gif.gif]
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmauri" alt="nazmauri" /></a> </p>
+<h1>Hey, Nice to see you.</h1>
 
-- 🔭 I’m currently working on **Ethical Hacker**
+Hi, I'm ** Naz Dane Mauri**, a **Ethical Hacker** Currently Graduated at De La Salle University  
 
-- 📫 How to reach me **nazmauri5@gmail.com**
+If you're in need of a reliable and experienced Ethical Hacker, don't hesitate to reach out. I'm always open to discussing potential new projects and how I can contribute to their success.<br>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a href="https://github.com/nazmauri"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></a>
+<a href="https://www.youtube.com/channel/UCWJ9LuM4fiGJbTmndK3gCXg"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"/></a>
+<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1BF700&width=435&lines=Naz+Dane+Mauri;Ethical+Hacker+;Cyber+Security+Consultant;Penetration+Tester)](https://git.io/typing-svg)
+[![](https://img.shields.io/badge/10-Gmail-nazmauri@proton.me-red)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/nazmauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nazmauri" height="30" width="40" /></a>
-<a href="https://fb.com/nazmauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nazmauri" height="30" width="40" /></a>
-<a href="https://instagram.com/naz_mauri1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naz_mauri1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/naz mauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="naz mauri" height="30" width="40" /></a>
-<a href="https://discord.gg/nazmauri#0384" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nazmauri#0384" height="30" width="40" /></a>
-</p>
+### How to reach me: 
+<a href="mailto: nazmauri@proton.me">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Current Status Quo:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazmauri&show_icons=true&locale=en" alt="nazmauri" /></p>
+- 💼 Ethical Hacker <strong>Cyber Security Consultant/ Penetration Tester</strong>.
+- 🔍 I’m looking for connections in <strong>Ethical Hacking and Cyber Security Consultant</strong> Industry.
+- 💬 Feel free to discuss with me about <strong>Cyber Security Consultant, Penetration Testing</strong>
+- 👀 See my [Personal Portfolio](https://github.com/nazmauri.github.io) to get more info
 
+### Tools I work upon : 🛠
+badge&logo=Eclipse&logoColor=white">
+<img src="https://img.shields.io/badge/Ethical Hacker5-%23E34F26.svg?style=for-the-badge&amp;logo=Ethical Hacker5&amp;logoColor=white">   <img src="https://img.shields.io/badge/Cyber Security Consultant3%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=Cyber Security Consultant3&amp;logoColor=white">   <img src="https://img.shields.io/badge/Penetration Tester%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=Penetration Tester&amp;logoColor=%23F7DF1E">
+<a href="https://www.linkedin.com/in/naz-dane-mauri-863928252/">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmauri&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
+</a><br><br>
+<a href="https://www.linkedin.com/in/naz-dane-mauri-863928252/">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmauri&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
+
+### Github Activity: 🔥 
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=nazmauri&theme=dracula&color=B994E6&bg_color=2B2D3D" />
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=nazmauri.visitor-badge)
