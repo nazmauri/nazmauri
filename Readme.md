@@ -21,7 +21,6 @@ If you're in need of a reliable and experienced Ethical Hacker, don't hesitate t
 - 👀 See my [Personal Portfolio](https://github.com/nazmauri.github.io) to get more info
 
 ### Tools I work upon : 🛠
-badge&logo=Eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/Ethical Hacker5-%23E34F26.svg?style=for-the-badge&amp;logo=Ethical Hacker5&amp;logoColor=white">   <img src="https://img.shields.io/badge/Cyber Security Consultant3%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=Cyber Security Consultant3&amp;logoColor=white">   <img src="https://img.shields.io/badge/Penetration Tester%20-%23323330.svg?&amp;style=for-the-badge&amp;logo=Penetration Tester&amp;logoColor=%23F7DF1E">
 <a href="https://www.linkedin.com/in/naz-dane-mauri-863928252/">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazmauri&theme=buefy-dark&date_format=M%20j%5B%2C%20Y%5D" />
