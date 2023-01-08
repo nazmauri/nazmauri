@@ -7,8 +7,8 @@ If you're in need of a reliable and experienced Ethical Hacker, don't hesitate t
 <a href="https://github.com/nazmauri"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></a>
 <a href="https://www.youtube.com/channel/UCWJ9LuM4fiGJbTmndK3gCXg"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"/></a>
 <br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F747&width=435&lines=NAZ+DANE+MAURI;ETHICAL+HACKER;PENETRATION+TESTER;CYBER+SECURITY+CONSULTANT;Certified+Digital+Forensics+Professional;Offensive+Security+Wireless+Professional;Web+App+Penetration+Tester;The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
-[!](https://img.shields.io/badge/10-Gmail-nazmauri@proton.me-red)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F747&width=435&lines=NAZ+DANE+MAURI;ETHICAL+HACKER;PENETRATION+TESTER;CYBER+SECURITY+CONSULTANT;Certified+Digital+Forensics+Professional;Offensive+Security+Wireless+Professional;Web+App+Penetration+Tester)](https://git.io/typing-svg)
+[](https://img.shields.io/badge/10-Gmail-nazmauri@proton.me-red)
 
 ### How to reach me: 
 <a href="mailto: nazmauri@proton.me">
