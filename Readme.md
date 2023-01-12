@@ -1,6 +1,5 @@
 <h1>Hey, Nice to see you.</h1>
-
-Hi, I'm ** Naz Dane Mauri**, a **Ethical Hacker** Currently Graduated at De La Salle University  
+Hi, I'm Naz Dane Mauri, a Ethical Hacker Currently Graduated at De La Salle University  
 
 If you're in need of a reliable and experienced Ethical Hacker, don't hesitate to reach out. I'm always open to discussing potential new projects and how I can contribute to their success.<br>
 
