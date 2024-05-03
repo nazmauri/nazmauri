@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/nazmauri/nazmauri/blob/main/naz.jpg">
+  <img src="https://github.com/nazmauri/nazmauri/blob/main/nazd.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm passionate in Digital Forensic and Incident Response, 
 
 ### Languages and Tools:
 
-[![Python][python-shield]][python-url]
+[![Python][python-shield]][python-url]  
 [![Bash][bash-shield]][bash-url]
 [![Kali Linux][kali-linux-shield]][kali-linux-url]
 [![Metasploit][metasploit-shield]][metasploit-url]
