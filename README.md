@@ -1,33 +1,51 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-rlyipDCdZUjwC7Cb8OV9jwzx8Uv4oZwE4GY9xNHcbv70n+PqVM5Xs5LflE6yMaKs" crossorigin="anonymous">
-</head>
-<body>
-  <h1>Hey, Nice to see you.</h1>
-  <p>Hi, I'm Naz Dane Mauri, an Ethical Hacker Cybersecurity Consultant/Cybersecurity Researcher</p>
 
-  <p>If you're in need of a reliable and experienced Ethical Hacker, don't hesitate to reach out.</p>
+<p align="center">
+  <img src="https://github.com/nazmauri/nazmauri/blob/main/naz.jpg">
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nazmauri/count.svg">
+</p>
 
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F700&width=435&lines=Ethical+Hacker;Cybersecurity+Consultant;Cybersecurity+Researcher" alt="Typing SVG" />
-  </a>
+## DFIR | VAPT | CTI
 
-### Socials:
-<a href="https://m.youtube.com/@nazmauri"><img src="Youtube.png" alt="YouTube Logo"></a>
-<a href="https://www.instagram.com/naz_mauri1/"><img src="instagram.png" alt="Instagram Logo"></a>
-<a href="https://www.facebook.com/ndm.gov.ph"><img src="meta.jpg" alt="Facebook Logo"></a>
+Welcome to my GitHub! I'm passionate in Digital Forensic and Incident Response, Vulnerability Assessment and Penetration Testing, Cyber Threat Intelligence.
 
-  <h3>How to reach me:</h3>
-  <a href="mailto:nazmauri@proton.me">
-  <img src="https://img.shields.io/badge/nazmauri%40proton.me-purple" ></a>
-  <h3>Current Status Quo:</h3>
-  <ul>
-    <li>💼 Ethical Hacker <strong>Cyber Security Consultant/Cybersecurity Researcher</strong>.</li>
-    <li>🔍 I’m looking for connections in <strong>Cyber Security</strong> Industry.</li>
-    <li>💬 Feel free to discuss with me about <strong>Cyber Security Related</strong>.</li>
-  </ul>
+- 🔭 **Currently Working as :** CyberSecurity Specialist
+- 👯 **Organization:** Member at STUDEV PHL
+- 📫 **Reach Me At:** [Discord - HackNexus](https://discord.gg/hacknexus)
 
-</body>
-</html>
+### Languages and Tools:
+
+[![Python][python-shield]][python-url]
+[![Bash][bash-shield]][bash-url]
+[![Kali Linux][kali-linux-shield]][kali-linux-url]
+[![Metasploit][metasploit-shield]][metasploit-url]
+[![HTML5][html5-shield]][html5-url]
+[![JavaScript][javascript-shield]][javascript-url]
+[![Wireshark][wireshark-shield]][wireshark-url]
+[![Nmap][nmap-shield]][nmap-url]
+[![PowerShell][powershell-shield]][powershell-url]
+
+<!-- Shields Links -->
+[python-shield]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://python.org
+[bash-shield]: https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white
+[bash-url]: https://www.gnu.org/software/bash/
+[kali-linux-shield]: https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white
+[kali-linux-url]: https://www.kali.org/
+[metasploit-shield]: https://img.shields.io/badge/Metasploit-FF1111?style=for-the-badge&logo=metasploit&logoColor=white
+[metasploit-url]: https://www.metasploit.com/
+[wireshark-shield]: https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white
+[wireshark-url]: https://www.wireshark.org/
+[nmap-shield]: https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white
+[nmap-url]: https://nmap.org/
+[powershell-shield]: https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
+[powershell-url]: https://docs.microsoft.com/en-us/powershell/
+
+### 📈 GitHub Stats
+
+![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmauri&show_icons=true&theme=radical)
+
+<img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
