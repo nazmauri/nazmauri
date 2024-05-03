@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/nazmauri/nazmauri/blob/main/nazd.png">
+  <img src="https://github.com/nazmauri/nazmauri/blob/main/pancake.png">
 </p>
 
 <p align="center">
@@ -22,7 +22,6 @@ Welcome to my GitHub! I'm passionate in Digital Forensic and Incident Response, 
 [![Bash][bash-shield]][bash-url]
 [![Kali Linux][kali-linux-shield]][kali-linux-url]
 [![Metasploit][metasploit-shield]][metasploit-url]
-[![HTML5][html5-shield]][html5-url]
 [![Wireshark][wireshark-shield]][wireshark-url]
 [![Nmap][nmap-shield]][nmap-url]
 [![PowerShell][powershell-shield]][powershell-url]
