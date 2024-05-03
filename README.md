@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/nazmauri/nazmauri/blob/main/nazd.jpg">
+  <img src="https://github.com/nazmauri/nazmauri/blob/main/nazd.png">
 </p>
 
 <p align="center">
