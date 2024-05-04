@@ -1,13 +1,3 @@
-
-<p align="center">
-  <img src="https://github.com/nazmauri/nazmauri/blob/main/dane.png">
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/nazmauri/count.svg">
-</p>
-
-
 ## DFIR | VAPT | CTI
 
 Welcome to my GitHub! I'm passionate in Digital Forensic and Incident Response, Vulnerability Assessment and Penetration Testing, Cyber Threat Intelligence.
@@ -46,4 +36,7 @@ Welcome to my GitHub! I'm passionate in Digital Forensic and Incident Response, 
 
 ![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmauri&show_icons=true&theme=radical)
 
+<p align="center">
+  <img src="https://profile-counter.glitch.me/nazmauri/count.svg">
+</p>
 <img src="https://i.imgur.com/6tu60vO.gif" width= "300000" alt="horizontal super thin rainbow RGB line">
